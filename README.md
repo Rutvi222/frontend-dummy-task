@@ -15,7 +15,7 @@ This is an engaging practice task aimed at helping interns master front-end tech
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/frontend-dummy-task.git
+   git clone https://github.com/Rutvi222/frontend-dummy-task.git
    
 2. Open the form.html file in your web browser to view the form.
 
